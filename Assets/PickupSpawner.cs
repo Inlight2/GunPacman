@@ -33,7 +33,7 @@ public class PickupSpawner : MonoBehaviour {
 	//pickups can stack
 	Pickup SpawnPickup() {
 		Point randomPoint = new Point (Random.Range (0, map.MapRangeX), Random.Range (0, map.MapRangeY));
-		Debug.Log(randomPoint.x + " " + randomPoint.y);
+		//Debug.Log(randomPoint.x + " " + randomPoint.y);
 		if (map.IsWallMapSpace (randomPoint)) {
 			return SpawnPickup ();
 		}
@@ -45,7 +45,7 @@ public class PickupSpawner : MonoBehaviour {
 	}
 
 	void Update() {
-		Debug.Log (GameManager.gameManager.GameOn);
+		//Debug.Log (GameManager.gameManager.GameOn);
 		if (GameManager.gameManager.GameOn) {
 			spawnWaitTime++;
 		}

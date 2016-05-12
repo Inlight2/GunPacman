@@ -1,0 +1,26 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 200 Series (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2030 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+Platform assembly: E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Karlore\Documents\UnityProjects\GunPacman\GunPacman_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3360x1394 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.534937 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d14 -> priority: 1 
